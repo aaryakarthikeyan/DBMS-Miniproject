@@ -1,0 +1,1 @@
+A mini project for maintaining the databases (using a database management tool like phpMyAdmin) required to run a drug store using  which results in reduced paper work, human faults, manual delay and speeds up process. 
